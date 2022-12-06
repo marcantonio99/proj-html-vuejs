@@ -32,6 +32,8 @@
       </table>
     </section>
 
+    <hr>
+
   </div>
 </template>
 
