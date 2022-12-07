@@ -48,6 +48,7 @@
 
 <script>
 import CardComp from './CardComp.vue'
+
     export default {
         name: 'MainComp' ,
         components: {
