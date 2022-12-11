@@ -58,75 +58,75 @@ import CardComp from './CardComp.vue'
             return{
                 products: [
                     {
-                        src: "../assets/img/column1-image1.jpg",
+                        src: "column1-image1.jpg",
                         titolo: "Deborah Brown",
                     },
                     {
-                        src: "../assets/img/column2-image1.jpg",
+                        src: "column2-image1.jpg",
                         titolo: "Tax Litigation",
                     },
                     {
-                        src: "../assets/img/column3-image1.jpg",
+                        src: "column3-image1.jpg",
                         titolo: "Low Oil Prices",
                     },
                     {
-                        src: "../assets/img/column1-image2.jpg",
+                        src: "column1-image2.jpg",
                         titolo: "Allen Lucas",
                     },
                     {
-                        src: "../assets/img/column2-image2.jpg",
+                        src: "column2-image2.jpg",
                         titolo: "Aquisitions",
                     },
                     {
-                        src: "../assets/img/column3-image2.jpg",
+                        src: "column3-image2.jpg",
                         titolo: "Cost of Divorce",
                     },
                     {
-                        src: "../assets/img/column1-image3.jpg",
+                        src: "column1-image3.jpg",
                         titolo: "Muriel Potter",
                     },
                     {
-                        src: "../assets/img/column2-image3.jpg",
+                        src: "column2-image3.jpg",
                         titolo: "Financial Advice",
                     },
                     {
-                        src: "../assets/img/column3-image3.jpg",
+                        src: "column3-image3.jpg",
                         titolo: "2015 Tax Laws",
                     },
                     {
-                        src: "../assets/img/column1-image4.jpg",
+                        src: "column1-image4.jpg",
                         titolo: "Ken Douglas",
                     },
                     {
-                        src: "../assets/img/column2-image4.jpg",
+                        src: "column2-image4.jpg",
                         titolo: "International",
                     },
                     {
-                        src: "../assets/img/column3-image4.jpg",
+                        src: "column3-image4.jpg",
                         titolo: "Surveys Matter",
                     },
                     {
-                        src: "../assets/img/column1-image5.jpg",
+                        src: "column1-image5.jpg",
                         titolo: "Loretta Harris",
                     },
                     {
-                        src: "../assets/img/column2-image5.jpg",
+                        src: "column2-image5.jpg",
                         titolo: "Oil and Gas",
                     },
                     {
-                        src: "../assets/img/column3-image5.jpg",
+                        src: "column3-image5.jpg",
                         titolo: "In-House Work",
                     },
                     {
-                        src: "../assets/img/column1-image6.jpg",
+                        src: "column1-image6.jpg",
                         titolo: "Phill Russell",
                     },
                     {
-                        src: "../assets/img/column2-image6.jpg",
+                        src: "column2-image6.jpg",
                         titolo: "Capital Markets",
                     },
                     {
-                        src: "../assets/img/column3-image6.jpg",
+                        src: "column3-image6.jpg",
                         titolo: "Obama Care",
                     },
 

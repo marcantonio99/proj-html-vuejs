@@ -1,6 +1,6 @@
 <template>
     <div class="column">
-        <img :src="dettagliColumn.src" alt="columnphoto">
+        <img :src="require(`../assets/img/${dettagliColumn.src}`)" alt="columnphoto">
         <h4>{{ dettagliColumn.titolo }}</h4>
         <p>{{ dettagliColumn.testo }}</p>
     </div>

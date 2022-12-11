@@ -1,6 +1,6 @@
 <template>
     <div class="card">
-        <img :src="dettagliCard.src" alt="cardphoto">
+        <img :src="require(`../assets/img/${dettagliCard.src}`)" alt="cardphoto">
         <h4>{{ dettagliCard.titolo }}</h4>
     </div>
 </template>

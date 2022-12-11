@@ -37,17 +37,17 @@ import ColumnComp from './ColumnComp.vue'
             return{
                 products: [
                     {
-                        src: "../assets/img/law_7.jpg",
+                        src: "law_7.jpg",
                         titolo: "INTERNATIONAL",
                         testo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidunt ut labore. Sadips ipsums et dolores ficilis ametis uns etras."
                     },
                     {
-                        src: "../assets/img/law_8.jpg",
+                        src: "law_8.jpg",
                         titolo: "PARTNERSHIPS",
                         testo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidunt ut labore. Sadips ipsums et dolores ficilis ametis uns etras."
                     },
                     {
-                        src: "../assets/img/law_3.jpg",
+                        src: "law_3.jpg",
                         titolo: "EXCELLENCE",
                         testo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidunt ut labore. Sadips ipsums et dolores ficilis ametis uns etras."
                     },
